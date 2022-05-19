@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://judocoder.com/wp-content/themes/judocoder/assets/v2/img/34e69eb61a7bd8dea1c957a8b82605a7.gif" width="300" height="300"/>
 </div>
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
