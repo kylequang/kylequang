@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **FLutter**
 
-- 💬 Ask me about **ReactJs, React Native**
+- 💬 Ask me about **ReactJs, React Native, Flutter**
 
 - 📫 How to reach me **quangkytk1@gmail.com**
 
