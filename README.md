@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://judocoder.com/wp-content/themes/judocoder/assets/v2/img/34e69eb61a7bd8dea1c957a8b82605a7.gif" width="500" height="400"/>
+  <img src="https://judocoder.com/wp-content/themes/judocoder/assets/v2/img/34e69eb61a7bd8dea1c957a8b82605a7.gif" width="300" height="250"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Le Quang Ky</h1>
