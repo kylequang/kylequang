@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **FLutter**
 
-- 💬 Ask me about **ReactJs, React Native, Flutter**
+- 💬 Ask me about **ReactJs, React Native, Flutter,Kotlin-Jetpack Compose**
 
 - 📫 How to reach me **quangkytk1@gmail.com**
 
