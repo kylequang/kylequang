@@ -10,9 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylequang" alt="kylequang" /></a> </p>
 
-- 🌱 I’m currently learning **FLutter**
-
-- 💬 Ask me about **ReactJs, React Native, Flutter,Kotlin-Jetpack Compose**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **quangkytk1@gmail.com**
 
